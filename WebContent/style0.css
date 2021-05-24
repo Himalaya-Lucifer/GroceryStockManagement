@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+a.back-home {
+    position: absolute;
+    left: 15px;
+    right: auto;
+    top: 150px;
+    font-size: 20px;
+    font-weight: 600;
+    color: black;
+    width: auto;
+    z-index: 9999
+}
+
+.bottomleft
+{
+	position:absolute;
+	bottom:45px;
+	left:10px;
+	font-size : 25px;
+	color:#eee;
+	
+}
